@@ -22,10 +22,10 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
+  "BOTNAME": "Nahida",
   "PREFIX": "?",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "100070941133287",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
